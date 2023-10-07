@@ -3,6 +3,6 @@ Repository for SEG2105[B|C] LAB4 Group#58. Member: Aiden Garrett, Connor Harriso
 
 Aiden Garrett 300293059
 
-Conner Harrison 300319807
+Connor Harrison 300319807
 
 Yiding Tian 300227512
